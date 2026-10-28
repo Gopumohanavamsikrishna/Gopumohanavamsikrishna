@@ -47,5 +47,9 @@
 </p>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Aspiring+Software+Developer;Exploring+AI%2FML+and+Data+Science" alt="Typing animation" />
+</p>
+
 ---
 ⭐ Thanks for visiting my profile!
