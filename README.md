@@ -51,5 +51,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Aspiring+Software+Developer;Exploring+AI%2FML+and+Data+Science" alt="Typing animation" />
 </p>
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:9333EA&height=180&section=header&text=Mohana%20Vamsi%20Krishna%20Gopu&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Profile banner" />
+</p>
+
 ---
 ⭐ Thanks for visiting my profile!
