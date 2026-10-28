@@ -56,5 +56,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:9333EA&height=180&section=header&text=Mohana%20Vamsi%20Krishna%20Gopu&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Profile banner" />
 </p>
 
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://ghstats.dev/api/card?username=Gopumohanavamsikrishna&theme=tokyonight)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Gopumohanavamsikrishna&layout=compact&theme=tokyonight)
+
 ---
 ⭐ Thanks for visiting my profile!
