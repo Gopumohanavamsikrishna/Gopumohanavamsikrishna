@@ -102,16 +102,6 @@ Explore my repositories:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopumohanavamsikrishna&layout=compact&theme=tokyonight" height="170" alt="Top programming languages" />
 </p>
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gopumohanavamsikrishna&theme=tokyonight" alt="GitHub contribution streak" />
-</p>
-
-## 📈 Contribution Activity
-
-![Contribution graph](https://ghchart.rshah.org/409ba5/Gopumohanavamsikrishna)
-
 ## 📫 Connect With Me
 
 <p align="center">
