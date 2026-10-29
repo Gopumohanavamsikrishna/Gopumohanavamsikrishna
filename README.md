@@ -55,5 +55,78 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:9333EA&height=180&section=header&text=Mohana%20Vamsi%20Krishna%20Gopu&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Profile banner" />
 </p>
+
+<!-- Animated header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohana+Vamsi+Krishna+Gopu;Computer+Science+Student;Aspiring+Software+Developer;Exploring+AI%2FML+and+Data+Science" alt="Typing introduction" />
+</p>
+
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
+
+<p align="center">
+  💻 Computer Science Student | Data Science
+  <br>
+  🌱 Learning Python, Java, SQL and Machine Learning
+  <br>
+  🚀 Interested in AI/ML, IoT and Software Development
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 B.Tech CSE (Data Science) student
+- 🔭 Building software and IoT projects
+- 🌱 Improving my programming and problem-solving skills
+- 🎯 Goal: Become a skilled software developer
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode" alt="Programming languages and tools" />
+</p>
+
+## 🚀 My Projects
+
+- 🌡️ IoT-Based Smart Air Quality Monitoring System
+- 🌦️ Weather Monitoring System
+- 🛒 Grocery Store Application
+
+Explore my repositories:
+[View My Projects](https://github.com/Gopumohanavamsikrishna?tab=repositories)
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gopumohanavamsikrishna&show_icons=true&theme=tokyonight" height="170" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopumohanavamsikrishna&layout=compact&theme=tokyonight" height="170" alt="Top programming languages" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Gopumohanavamsikrishna&theme=tokyonight" alt="GitHub contribution streak" />
+</p>
+
+## 📈 Contribution Activity
+
+![Contribution graph](https://ghchart.rshah.org/409ba5/Gopumohanavamsikrishna)
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Gopumohanavamsikrishna">GitHub</a> |
+  <a href="https://www.linkedin.com/in/mohana-vamsi-krishna-gopu-a28100337/">LinkedIn</a> |
+  <a href="mailto:mohanavamsikrishnagopu@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+  <br>
+  💙 Keep Learning • Keep Building • Keep Growing
+</p>
+
 ---
 ⭐ Thanks for visiting my profile!
