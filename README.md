@@ -112,4 +112,3 @@ Explore my repositories:
 </p>
 
 ---
-⭐ Thanks for visiting my profile!
