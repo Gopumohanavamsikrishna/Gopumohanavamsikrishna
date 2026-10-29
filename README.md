@@ -95,13 +95,6 @@
 Explore my repositories:
 [View My Projects](https://github.com/Gopumohanavamsikrishna?tab=repositories)
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gopumohanavamsikrishna&show_icons=true&theme=tokyonight" height="170" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopumohanavamsikrishna&layout=compact&theme=tokyonight" height="170" alt="Top programming languages" />
-</p>
-
 ## 📫 Connect With Me
 
 <p align="center">
