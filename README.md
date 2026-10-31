@@ -27,18 +27,6 @@
 - GitHub: [My GitHub](https://github.com/Gopumohanavamsikrishna)
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mohana-vamsi-krishna-gopu-a28100337/)
 - 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gopumohanavamsikrishna&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopumohanavamsikrishna&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gopumohanavamsikrishna&theme=tokyonight" />
-</p>
 
 ## 💻 Languages and Tools
 
